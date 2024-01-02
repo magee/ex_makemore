@@ -1,0 +1,5 @@
+{
+  "editor.formatOnPaste": true,
+  "notebook.formatOnCellExecution": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
